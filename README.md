@@ -29,7 +29,7 @@ We were asked to do this project at the Ironhack Data Analytics Bootcamp.
 
 **2.** For the prediction I trained the following models (in the best ones I adjusted the parameters through grid search)
 
-Linear Regression (RMSE : 1244.55)
+- Linear Regression (RMSE : 1244.55)
 
 - Ridge (RMSE : 1244.53)
 
