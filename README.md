@@ -1,6 +1,6 @@
 # Kaggle Diamonds Competition 💎
 
-![foto]('https://github.com/AnaWalsh/W7-Kaggle_competition/blob/main/images/diamonds.png')
+![foto](https://github.com/AnaWalsh/W7-Kaggle_competition/blob/main/images/diamonds.png)
 
 ## Objective
 
