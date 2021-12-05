@@ -12,15 +12,10 @@ We were asked to do this project at the Ironhack Data Analytics Bootcamp.
 ## Structure of the project files
 
 - Notebooks: one for cleaning the data and another one for doing predictions.
-
-- src: functions that were used in the cleaning notebook.
-        
+       
 - data: Diamonds dataset from [kaggle.](https://www.kaggle.com/c/diamonds-datamad1021-rev/data)
 
 - Predictions: csv with the results of the predictions that were made.
-
-- A slide with a summary of the obtained metrics and the rationale behind it.
-
 
 
 ## Working plan
