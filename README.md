@@ -1,6 +1,6 @@
 # Kaggle Diamonds Competition 💎
 
-![foto](.png)
+![foto]('https://github.com/AnaWalsh/W7-Kaggle_competition/blob/main/images/diamonds.png')
 
 ## Objective
 
@@ -30,12 +30,18 @@ We were asked to do this project at the Ironhack Data Analytics Bootcamp.
 **2.** For the prediction I trained the following models (in the best ones I adjusted the parameters through grid search)
 
 Linear Regression (RMSE : 1244.55)
-Ridge (RMSE : 1244.53)
-Lasso (RMSE : 1244.48)
-SGD (RMSE : 99594178.25)
-KNeighbors (RMSE : 1898.34
-Random Forest (RMSE : 557.09)
-Gradient (RMSE : 596.05)
+
+- Ridge (RMSE : 1244.53)
+
+- Lasso (RMSE : 1244.48)
+
+- SGD (RMSE : 99594178.25)
+
+- KNeighbors (RMSE : 1898.34
+
+- Random Forest (RMSE : 557.09)
+
+- Gradient (RMSE : 596.05)
 
 
 **3.** Make a prediction with the  best prediction model based on the value obtained with the RMSE: Random Forest
