@@ -38,7 +38,7 @@ We have followed the criteria provided by the GIA (Gemological Institute of Amer
     
    - "Light" (S-Z) : Color can be seen in stones of different sizes. The diamons appear slightly yellow or brown but do not have sufficient color to be considered a "fancy" colored diamond. 
 
-![foto]()
+![foto](https://github.com/AnaWalsh/Kaggle_competition/blob/main/images/diamond-color-scale.png)
 
 - **Clarity**
 
@@ -56,7 +56,7 @@ We have followed the criteria provided by the GIA (Gemological Institute of Amer
 
     - Included (I1, I2, and I3): Inclusions are obvious under 10× magnification and may affect transparency and brilliance
 
-![foto]()
+![foto](https://github.com/AnaWalsh/Kaggle_competition/blob/main/images/diamondclarityscalegia.jpeg)
 
 
 **2.** For the prediction I trained the following models (in the best ones I adjusted the parameters through grid search)
